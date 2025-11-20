@@ -1,2 +1,3 @@
 # RML-TypeScript
-The Typescript Implementation of the Reality Modeling Language
+
+The TypeScript implementation of the Reality Modeling Language.
